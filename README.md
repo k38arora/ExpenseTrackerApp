@@ -17,15 +17,14 @@ Export to Excel: Export data to an Excel file, including a dynamic pie chart sho
 
 Installation
 
-git clone https://github.com/yourusername/ExpenseTrackerApp.git
-cd ExpenseTrackerApp
-
 Install Required Libraries The application requires the following Python libraries:
 
 tkinter (usually included in Python)
 pandas
 openpyxl
+
 Install them using pip:
 pip install pandas openpyxl
 
+Run the Application Execute the following command to start the application:
 python expense_tracker_gui.py
